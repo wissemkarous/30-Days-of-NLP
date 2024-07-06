@@ -5,15 +5,15 @@ What is Natural Language Processing (NLP)? A: Natural Language Processing is a f
   <img src="https://cdn.botpenguin.com/assets/website/natural_language_processing_6f02953a53.webp" alt="Natural Language Processing">
 </p>
 
-### What are some common applications of NLP? A: Common applications include:
+** What are some common applications of NLP? **A: Common applications include:
 
-Machine translation<br>
-Sentiment analysis<br>
-Chatbots and virtual assistants<br>
-Text summarization<br>
-Named Entity Recognition (NER)<br>
-Question answering systems<br>
-Speech recognition<br>
+ -Machine translation<br>
+ -Sentiment analysis<br>
+-Chatbots and virtual assistants<br>
+-Text summarization<br>
+-Named Entity Recognition (NER)<br>
+-Question answering systems<br>
+-Speech recognition<br>
 
 ### What are the main challenges in NLP? A: Some main challenges include:
 
