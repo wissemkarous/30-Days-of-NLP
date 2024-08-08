@@ -9,7 +9,8 @@ Natural Language Processing (NLP) is a field within artificial intelligence that
 NLP sits at the intersection of computer science, linguistics, and artificial intelligence, combining these disciplines to bridge the gap between human communication and computer understanding. This allows for a range of applications that can process and analyze large amounts of natural language data.
 
 <p align="center">
-  <img src="https://cdn.botpenguin.com/assets/website/natural_language_processing_6f02953a53.webp" alt="Natural Language Processing">
+  <img src="!https://github.com/user-attachments/assets/bc4720ff-b524-458e-854c-df10f2eadc2e
+" alt="Natural Language Processing">
 </p>
 
 ### Why is NLP Important?
