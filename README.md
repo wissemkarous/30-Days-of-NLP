@@ -94,3 +94,4 @@ stop_words = set(stopwords.words('english'))
 filtered_tokens = [word for word in tokens if word.lower() not in stop_words]
 print("Filtered Tokens:", filtered_tokens)
 ```
+By the end of Day 1, you should have a foundational understanding of what NLP is, its importance, the key concepts, common applications, and challenges. You should also have a working Python environment ready for more hands-on NLP tasks in the coming days 
