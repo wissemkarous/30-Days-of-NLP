@@ -64,8 +64,7 @@ To begin your journey in NLP, you’ll need to familiarize yourself with some ke
    pip install nltk spacy
 Download NLTK and spaCy Resources:
 
-python
-Copy code
+
 import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
